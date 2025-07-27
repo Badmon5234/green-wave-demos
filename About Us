@@ -1,0 +1,40 @@
+# green-wave-demos
+ Green Wave Ventures MVP Demo
+
+## Overview
+Green Wave Ventures is a next-generation fire-prevention and green materials marketplace platform that combines AI-enabled sensor software, real-time environmental monitoring, and a curated marketplace for preventative construction materials and defense kits.
+
+## Key Features
+- **AI-Powered Fire Prevention**: Industrial-grade sensors with ML models for early wildfire detection
+- **Blockchain Security**: Private blockchain for secure transactions and data integrity
+- **Smart Marketplace**: Curated green-certified materials and fire defense kits
+- **Real-time Monitoring**: Environmental data tracking with adaptive thresholds
+- **Predictive Analytics**: AI-driven risk assessment and material recommendations
+
+## Demo Components
+1. **Admin Dashboard**: Platform management, vendor oversight, analytics
+2. **Client Dashboard**: Marketplace browsing, order tracking, sensor monitoring
+3. **Sensor Simulation**: Mock environmental data (temperature, smoke, humidity, wind, ember detection)
+4. **AI Alert System**: Real-time threat detection and kit recommendations
+5. **Tokenized Marketplace**: Blockchain-secured transactions and vendor management
+
+## Tech Stack
+- Frontend: React.js with modern UI components
+- Backend: Node.js with Express
+- Database: MongoDB for product data, PostgreSQL for transactions
+- Blockchain: Simulated private blockchain with tokenization
+- AI/ML: TensorFlow.js for client-side predictions
+- Real-time: WebSocket connections for live updates
+
+## Getting Started
+```bash
+npm install
+npm run dev
+```
+
+## Demo Scenarios
+- Wildfire risk detection with sensor alerts
+- AI-recommended fire defense kit assembly
+- Bulk material ordering for government contracts
+- Vendor onboarding and product certification
+- Real-time environmental monitoring dashboard
