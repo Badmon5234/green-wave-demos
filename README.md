@@ -11,6 +11,8 @@ Digital Marketplace: Explore our curated digital marketplace where property owne
 While this demo provides a foundational view, it represents the initial steps towards a comprehensive system that will integrate real-time sensor data, AI-driven recommendations, and advanced logistics to transform how fire-resilient infrastructure is planned, deployed, and funded.
 
 How to Use the Demo
-To explore the demo, simply open the Fire Anaysis, HTML file and downlaod the raw file. Do the same for the marketplace.html page download the raw file to experience the product catalog.
+Explore our live [Green Wave Ventures Fire Prevention Analysis Demo](https://badmon5234.github.io/green-wave-demos/fire-analysis.html).
+Explore our interactive [Green Wave Marketplace Demo](https://badmon5234.github.io/green-wave-demos/marketplace.html).
+
 
 We invite you to imagine the full potential of Green Force OS as we continue to build out its advanced AI capabilities, sensor integration, and end-to-end supply chain management.
