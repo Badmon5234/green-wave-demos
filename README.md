@@ -4,9 +4,9 @@ Welcome to the Green Wave Ventures demo! This interactive experience provides a 
 What This Demo Showcases
 This demo highlights two key components of Green Force OS:
 
-Overview of Green Force OS: This page introduces the overarching vision of Green Wave Ventures and the Green Force OS platform. It outlines our mission to integrate AI-powered sensor technology with a sustainable materials marketplace to enable proactive fire prevention and resilient infrastructure development.
+Overview of Green Force OS (file:///C:/Users/Wesley/CascadeProjects/green-wave-mvp/demo/index.html): This page introduces the overarching vision of Green Wave Ventures and the Green Force OS platform. It outlines our mission to integrate AI-powered sensor technology with a sustainable materials marketplace to enable proactive fire prevention and resilient infrastructure development.
 
-Digital Marketplace : Explore our curated digital marketplace where property owners, developers, and municipalities can browse and discover pre-configured Fire Defense Kits and individual fire-resistant building materials. This section demonstrates how users can access sustainable products from our trusted vendor network, facilitating the procurement of materials essential for building future-proof structures.
+Digital Marketplace (file:///C:/Users/Wesley/CascadeProjects/green-wave-mvp/demo/marketplace.html): Explore our curated digital marketplace where property owners, developers, and municipalities can browse and discover pre-configured Fire Defense Kits and individual fire-resistant building materials. This section demonstrates how users can access sustainable products from our trusted vendor network, facilitating the procurement of materials essential for building future-proof structures.
 
 While this demo provides a foundational view, it represents the initial steps towards a comprehensive system that will integrate real-time sensor data, AI-driven recommendations, and advanced logistics to transform how fire-resilient infrastructure is planned, deployed, and funded.
 
