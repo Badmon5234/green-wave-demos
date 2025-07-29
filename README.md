@@ -11,6 +11,6 @@ Digital Marketplace: Explore our curated digital marketplace where property owne
 While this demo provides a foundational view, it represents the initial steps towards a comprehensive system that will integrate real-time sensor data, AI-driven recommendations, and advanced logistics to transform how fire-resilient infrastructure is planned, deployed, and funded.
 
 How to Use the Demo
-To explore the demo, simply open the index.html file in your web browser. From there, you can navigate to the marketplace.html page to experience the product catalog.
+To explore the demo, simply open the Fire Anaysis, HTML file and downlaod the raw file. Do the same for the marketplace.html page download the raw file to experience the product catalog.
 
 We invite you to imagine the full potential of Green Force OS as we continue to build out its advanced AI capabilities, sensor integration, and end-to-end supply chain management.
