@@ -1,4 +1,4 @@
-Green Wave Ventures Demo
+
 Welcome to the Green Wave Ventures demo! This interactive experience provides a glimpse into the core functionalities of Green Force OS, our AI-powered platform designed to revolutionize climate resilience, with a primary focus on wildfire prevention.
 
 What This Demo Showcases
